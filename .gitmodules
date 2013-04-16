@@ -1,3 +1,0 @@
-[submodule "tire"]
-	path = tire
-	url = git@github.com:tirejs/tire.git
