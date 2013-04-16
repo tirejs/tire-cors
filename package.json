@@ -1,0 +1,17 @@
+{
+  "name": "tire-cors",
+  "version": "1.0.0",
+  "author": "Fredrik Forsmo <fredrik.forsmo@gmail.com>",
+  "description": "",
+  "homepage": "https://github.com/tirejs/tire-cors",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tirejs/tire-cors.git"
+  },
+  "dependencies" : {},
+  "devDependencies": {
+    "connect": "*",
+    "grunt": "0.3.17"
+  },
+  "license": "MIT"
+}

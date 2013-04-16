@@ -1,0 +1,4 @@
+node_modules
+test/pid.txt
+tire.js
+dist
