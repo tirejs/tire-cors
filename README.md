@@ -2,7 +2,7 @@
 
 Brings CORS (Cross-origin resource sharing) support to Tire. Extends the [Ajax settings in Tire](http://tirejs.com/#ajax/ajax).
 
-**Important:** Don't work with the current Tire release, work in progress.
+**Important:** Requires Tire 1.2.0 or newer.
 
 ### Basic Ajax options
 
